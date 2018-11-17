@@ -1,0 +1,32 @@
+{
+  "name": "1987",
+  "version": "0.0.1",
+  "displayName": "1987",
+  "description": "1987 color theme for VS Code",
+  "publisher": "annliu",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "1987",
+        "uiTheme": "vs-dark",
+        "path": "./themes/1987-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ann-liu/1987-theme.git"
+  },
+  "author": "ann liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ann-liu/1987-theme/issues"
+  },
+  "homepage": "https://github.com/ann-liu/1987-theme#readme"
+}
