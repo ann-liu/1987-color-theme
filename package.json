@@ -1,6 +1,7 @@
 {
   "name": "1987",
   "version": "0.0.1",
+  "icon": "https://raw.githubusercontent.com/ann-liu/1987-color-theme/master/images/icon.png",
   "displayName": "1987 Theme",
   "description": "1987 inspired dark color theme",
   "publisher": "annliu",
