@@ -40,7 +40,6 @@
     "list.activeSelectionBackground": "#50476d",
     "editorSuggestWidget.highlightForeground": "#50476d",
     "list.focusBackground": "#50476d",
-
     "editorWarning.foreground": "#fcbaba",
     "editorMarkerNavigationWarning.background": "#fcbaba",
     "editorOverviewRuler.warningForeground": "#fcbaba96",
